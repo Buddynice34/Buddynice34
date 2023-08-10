@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Wilem April
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Bachelor of Science in Information Technology
+    - Introduction to Git
     - Scrum Master
     - React JS  
 - 📫 You can reach me on sirapril34@gmail.com
